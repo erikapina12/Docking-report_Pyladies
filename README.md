@@ -1,4 +1,4 @@
-# Docking-report Pyladies
+# Docking-report - Projeto Pyladies 2026
 Projeto para desenvolver um pacote python que organiza os resultados de docking de vários ligantes e receptores.
 
 # 📅 Cronograma de Desenvolvimento — Docking Report
