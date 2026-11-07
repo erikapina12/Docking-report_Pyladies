@@ -17,12 +17,12 @@ Desenvolver uma ferramenta em Python capaz de ler arquivos de saída do AutoDock
 
 **Objetivo:** compreender o formato dos arquivos de saída do AutoDock Vina e estruturar o projeto.
 
-- [ ] Definir os objetivos e os requisitos mínimos do programa.
-- [ ] Conhecer a estrutura dos arquivos de saída do AutoDock Vina.
-- [ ] Selecionar ou criar arquivos de exemplo para os testes.
-- [ ] Identificar as informações que serão extraídas, como número da pose, energia de afinidade e valores de RMSD, quando disponíveis.
-- [ ] Criar a estrutura inicial do repositório no GitHub.
-- [ ] Implementar a leitura de um arquivo individual.
+- [X] Definir os objetivos e os requisitos mínimos do programa.
+- [X] Conhecer a estrutura dos arquivos de saída de Docking Molecular.
+- [X] Selecionar ou criar arquivos de exemplo para os testes.
+- [X] Identificar as informações que serão extraídas, como número da pose, energia de afinidade e valores de RMSD, quando disponíveis.
+- [X] Criar a estrutura inicial do repositório no GitHub.
+- [X] Implementar a leitura de um arquivo individual.
 
 **Entrega:** repositório inicial e protótipo capaz de ler um arquivo de saída.
 
