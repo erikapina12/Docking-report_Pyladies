@@ -30,12 +30,9 @@ Desenvolver uma ferramenta em Python capaz de ler arquivos de saída do AutoDock
 
 **Objetivo:** desenvolver o processamento automático de múltiplos arquivos.
 
-- [ ] Implementar a extração das energias de afinidade previstas.
 - [ ] Identificar as poses de cada ligante.
 - [ ] Processar arquivos de diferentes ligantes e receptores.
-- [ ] Organizar os resultados em tabelas utilizando `pandas`.
-- [ ] Tratar arquivos vazios, formatos inesperados e dados ausentes.
-- [ ] Exportar os resultados para CSV.
+- [ ] Calcular RMSD
 
 **Entrega:** script capaz de processar vários arquivos e gerar uma tabela consolidada.
 
@@ -43,12 +40,10 @@ Desenvolver uma ferramenta em Python capaz de ler arquivos de saída do AutoDock
 
 **Objetivo:** transformar os dados extraídos em resultados visuais e interpretáveis.
 
+- [ ] Organizar os resultados em tabelas utilizando `pandas`.
+- [ ] Exportar os resultados para CSV.
 - [ ] Criar gráficos comparativos com `Matplotlib`.
-- [ ] Comparar as energias de afinidade entre ligantes.
-- [ ] Identificar automaticamente os melhores valores de afinidade previstos.
-- [ ] Gerar um resumo textual dos resultados.
 - [ ] Exportar os gráficos em formato PNG.
-- [ ] Integrar a leitura, o processamento e a visualização em um único fluxo.
 
 **Entrega:** primeira versão funcional do gerador automático de relatórios.
 
@@ -58,7 +53,6 @@ Desenvolver uma ferramenta em Python capaz de ler arquivos de saída do AutoDock
 
 - [ ] Testar o programa com diferentes arquivos de entrada.
 - [ ] Corrigir erros e melhorar o tratamento de exceções.
-- [ ] Organizar o código em funções reutilizáveis.
 - [ ] Incluir arquivos de exemplo e resultados demonstrativos.
 - [ ] Documentar as limitações da ferramenta.
 - [ ] Revisar o repositório e publicar a versão inicial.
